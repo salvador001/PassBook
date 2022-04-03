@@ -12,4 +12,4 @@ for example the college students it would eork as a E-wallet whaere the can modi
 -: HTML , CSS ,JavaScript
 
 **Deployment**
--: Github pages(https://salvador001.github.io/PassBook/)
+-: [Github pages](https://salvador001.github.io/PassBook/)
