@@ -18,5 +18,5 @@ for example the college students it would eork as a E-wallet whaere the can modi
 **___________________________________________________________________________________________________________________________________________________**
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<i class="fa-brands fa-linkedin"></i>
 
