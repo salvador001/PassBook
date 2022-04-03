@@ -1,5 +1,4 @@
 # PassBook
-____________________________________________________________________________________________________________________________________________________
 
 **Statement**
 <br>
@@ -7,7 +6,7 @@ In this project i had majourly focused on **JavaScript** logic and made this for
 for example the college students it would eork as a E-wallet whaere the can modify there expenses according to there needs.</br>
 
 
-**___________________________________________________________________________________________________________________________________________________**
+**_____________________________________________________________________________________________________________________________________________________**
 
 **Technologies used**
 -: HTML , CSS ,JavaScript
@@ -15,7 +14,7 @@ for example the college students it would eork as a E-wallet whaere the can modi
 **Deployment**
 -: [Github pages](https://salvador001.github.io/PassBook/)
 
-**___________________________________________________________________________________________________________________________________________________**
+**_____________________________________________________________________________________________________________________________________________________**
 
 ## 🔗 Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nikhil-soni-435b13217/)
