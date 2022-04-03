@@ -18,5 +18,6 @@ for example the college students it would eork as a E-wallet whaere the can modi
 **___________________________________________________________________________________________________________________________________________________**
 
 ## 🔗 Links
-<i class="fa-brands fa-linkedin"></i>
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/nikhil-soni-435b13217)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/salvador001)
