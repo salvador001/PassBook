@@ -14,3 +14,9 @@ for example the college students it would eork as a E-wallet whaere the can modi
 
 **Deployment**
 -: [Github pages](https://salvador001.github.io/PassBook/)
+
+**___________________________________________________________________________________________________________________________________________________**
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
